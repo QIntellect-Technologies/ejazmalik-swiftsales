@@ -7,7 +7,7 @@ const Journey = () => {
     const [ref, inView] = useInView({ triggerOnce: true, threshold: 0.1 });
 
     const milestones = [
-        { year: '2003', title: 'Beginning the Journey', description: 'Started in sales and distribution; a 6-month foundational period.', icon: Briefcase },
+        { year: '2003', title: 'Beginning the Journey', description: 'Started in sales and distribution, a 6-month foundational period.', icon: Briefcase },
         { year: '2005', title: 'Graduation & Growth', description: 'Completed 3 years as SPO while pursuing B.A. graduation.', icon: GraduationCap },
         { year: '2012', title: 'Swift Sales Launch', description: 'Started Swift Sales in Feb 2012 with an initial team of 5.', icon: Rocket },
         { year: '2015', title: 'Scaling Operations', description: 'Grew to 12 members and secured 6-7 partnerships.', icon: TrendingUp },

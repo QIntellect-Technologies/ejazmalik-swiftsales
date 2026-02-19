@@ -22,10 +22,10 @@ const Legacy = () => {
                         transition={{ delay: 0.1 }}
                     >
                         <p className="mb-6 first-letter:text-5xl first-letter:font-black first-letter:text-blue-600 first-letter:mr-3 first-letter:float-left">
-                            Looking back to 2003, the distribution landscape in our area was completely different. There were no professional systems, no temperature-controlled logistics, and clients often faced long delays for even the simplest deliveries. I recognized this wasn't just a business gap—it was a critical problem that needed a systematic solution.
+                            Looking back to 2003, the distribution landscape in our area was completely different. There were no professional systems, no temperature-controlled logistics, and clients often faced long delays for even the simplest deliveries. I recognized this wasn't just a business gap, it was a critical problem that needed a systematic solution.
                         </p>
                         <p>
-                            We began our journey with just one small van and a team of three dedicated people. Those early days tested us; the roads were challenging and many were resistant to new ways of working. However, we stood firm on one simple, professional promise: <strong>"If we commit to a delivery, we fulfill it, no matter what."</strong>
+                            We began our journey with just one small van and a team of three dedicated people. Those early days tested us. The roads were challenging and many were resistant to new ways of working. However, we stood firm on one simple, professional promise: <strong>"If we commit to a delivery, we fulfill it, no matter what."</strong>
                         </p>
                     </motion.div>
 
