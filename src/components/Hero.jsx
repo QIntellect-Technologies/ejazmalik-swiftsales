@@ -91,7 +91,7 @@ const Hero = () => {
                         <motion.h1
                             className="text-5xl lg:text-7xl font-black text-slate-900 mb-8 leading-tight tracking-tight whitespace-nowrap"
                         >
-                            Malik <motion.span
+                            Malik Muhammad <motion.span
                                 className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 inline-block"
                                 animate={{ backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"] }}
                                 transition={{ duration: 5, repeat: Infinity, ease: "linear" }}
@@ -116,7 +116,7 @@ const Hero = () => {
                                 animate={{ opacity: 1, x: 0 }}
                                 transition={{ delay: 0.3 }}
                             >
-                                I am Malik Ejaz, the CEO of <strong>SWIFT SALES DISTRIBUTER</strong>. We are a professional sales and distribution network. My mission is to ensure that high-quality products reach every partner on time.
+                                I am Malik Muhammad Ejaz, the CEO of <strong>SWIFT SALES DISTRIBUTER</strong>. We are a professional sales and distribution network. My mission is to ensure that high-quality products reach every partner on time.
                             </motion.p>
 
                             <motion.p

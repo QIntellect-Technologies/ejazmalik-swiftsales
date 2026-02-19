@@ -7,60 +7,54 @@ const TEAM_MEMBERS = [
     {
         id: 'naveed',
         name: 'Naveed Anjum',
-        role: 'Accounts Manager',
+        role: 'Manager',
         image: '/Team Images/Naveed Anjum - Manager.jpeg'
     },
     {
         id: 'wajhat',
-        name: 'Malik Wajhat',
-        role: 'Director Sales',
+        name: 'Malik Wajahat',
+        role: 'Sales Head',
         image: '/Team Images/Malik Wajahat - Sales Head.jpeg'
     },
     {
         id: 'asad',
-        name: 'Asad Ullah',
-        role: 'Manager IT',
+        name: 'Asad Malik',
+        role: 'Computer Executive',
         image: '/Team Images/Asad Malik - Computer Exective.jpeg'
     },
     {
         id: 'ahmad',
-        name: 'M. Ahmad',
-        role: 'Data Entry Operator',
+        name: 'M. Ahmed',
+        role: 'Assistant Manager',
         image: '/Team Images/M. Ahmed - Assistant Manager.jpeg'
     },
     {
         id: 'sadeem',
-        name: 'Malik Sadeem',
-        role: 'Admin',
+        name: 'Malika Sadeem',
+        role: 'Faculty Manager',
         image: '/Team Images/Malika Sadeem - Faculty Manager.jpeg'
-    },
-    {
-        id: 'hameed',
-        name: 'Abdul Hameed',
-        role: 'Ware House Audit Manager',
-        image: '/images/placeholder_user.jpg'
     },
     {
         id: 'tahseen',
         name: 'Tahseen Ahmad',
-        role: 'Ware House Manager',
+        role: 'Warehouse Manager',
         image: '/Team Images/Tahseen ahmad.jpeg'
     },
     {
         id: 'ismail',
-        name: 'Ismail',
-        role: 'Assistant Manager Ware House',
+        name: 'M. Ismail',
+        role: 'Store Boy',
         image: '/Team Images/M. Ismail - Story BOY.jpeg'
     },
     {
         id: 'zohaib',
-        name: 'Zohaib',
-        role: 'Stock In/Out',
+        name: 'M. Zohaib',
+        role: 'Cook',
         image: '/Team Images/M. Zohaib - Cook.jpeg'
     },
     {
         id: 'sageer',
-        name: 'Sageer Ahmad',
+        name: 'Sagheer Ahmed',
         role: 'Stock In/Out',
         image: '/Team Images/Sagheer Ahmed.jpeg'
     }
