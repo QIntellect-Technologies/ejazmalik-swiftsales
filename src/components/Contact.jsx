@@ -9,7 +9,7 @@ const Contact = () => {
 
     const contactInfo = [
         { icon: Mail, label: 'Email', value: 'customercare.swiftsales@gmail.com' },
-        { icon: Phone, label: 'Phone', value: '0301 8670511' },
+        { icon: Phone, label: 'Phone', value: '03008607811' },
         { icon: MapPin, label: 'Location', value: 'C8GM+HFF, Sardar Colony, Rahim Yar Khan' },
     ];
 
@@ -65,7 +65,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <label className="block text-xs font-bold text-slate-500 uppercase tracking-widest mb-2">Phone</label>
-                                    <input type="tel" required className="w-full px-4 py-3 bg-slate-50 rounded-xl border border-slate-200 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all font-medium text-slate-900" placeholder="e.g. 0301 8670511" />
+                                    <input type="tel" required className="w-full px-4 py-3 bg-slate-50 rounded-xl border border-slate-200 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all font-medium text-slate-900" placeholder="e.g. 03008607811" />
                                 </div>
                             </div>
                             <div>
@@ -84,7 +84,7 @@ const Contact = () => {
                 </div>
 
                 <div className="mt-20 pt-8 border-t border-slate-100 text-center text-slate-400 text-sm font-medium">
-                    © {new Date().getFullYear()} SWIFT SALES DISTRIBUTER. All rights reserved. | Developed by QIntellect Technologies | customercare.swiftsales@gmail.com | 2206 ok
+                    © 2026 QIntellect Technologies. All rights reserved. | colab@qintellecttechnologies.com
                 </div>
             </div>
         </section>
