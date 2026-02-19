@@ -43,7 +43,7 @@ const About = () => {
                                 My journey started in 2003 when I began working in sales and logistics. I traveled to many cities and saw how products were being sold and delivered. I realized that delivering essentials safely was a big challenge in our country, and there were many gaps in the system.
                             </p>
                             <p>
-                                <strong>I wanted to fix this problem.</strong> So, I founded SWIFT SALES DISTRIBUTER. My goal was simple: to create a distribution network that everyone can trust. We are not just a delivery service; we are a proper system. We make sure that products are stored at the right temperature and handled with care.
+                                <strong>I wanted to fix this problem.</strong> So, I founded SWIFT SALES DISTRIBUTER. My goal was simple: to create a premier distribution group that everyone can trust. We are not just a delivery service; we are a strategic partner. We make sure that products are stored at the right temperature and handled with care.
                             </p>
                             <p>
                                 Today, I lead a team of over 60 hardworking professionals. We work day and night to supply essentials to thousands of pharmacies and hospitals. Whether it is a small village or a big city, we ensure that clean, safe, and effective products reach the partner on time. This is my life's work.
