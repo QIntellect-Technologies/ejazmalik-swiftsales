@@ -32,12 +32,11 @@ const TEAM_MEMBERS = [
         id: 'yaseen',
         name: 'Dr. Ghulam Yaseen',
         role: 'Qualified Person',
-        image: '/Team Images/Dr Ghulam Yaseen.jpeg'
+        image: 'https://ui-avatars.com/api/?name=Dr+Ghulam+Yaseen&background=0D8ABC&color=fff'
     },
-
     {
         id: 'ahmed',
-        name: 'M. Ahmed',
+        name: 'M. Ahmad',
         role: 'Data Entry Operator',
         image: '/Team Images/M. Ahmed - Assistant Manager.jpeg'
     },
@@ -60,52 +59,16 @@ const TEAM_MEMBERS = [
         image: '/Team Images/M. Ismail - Story BOY.jpeg'
     },
     {
-        id: 'sageer',
-        name: 'Sageer Ahmad',
-        role: 'Operations Associate',
-        image: '/Team Images/Sagheer Ahmed.jpeg'
-    },
-    {
-        id: 'yasir',
-        name: 'Muhammad Yasir',
-        role: 'Sales Man',
-        image: '/Team Images/Muhammad Yasir Sales Man.jpeg'
-    },
-    {
-        id: 'rizwan',
-        name: 'Rizwan Hussain',
-        role: 'Sales Man',
-        image: '/Team Images/Rizwan Hussain - Sales Man.jpeg'
-    },
-    {
-        id: 'azam',
-        name: 'Azam Khan',
-        role: 'Driver',
-        image: '/Team Images/Azam Khan - Driver.jpeg'
-    },
-    {
-        id: 'irfan',
-        name: 'Irfan Ullah',
-        role: 'Driver',
-        image: '/Team Images/Irfan Ullah - dRIVER.jpeg'
-    },
-    {
-        id: 'danish',
-        name: 'Danish Ali',
-        role: 'Store Boy',
-        image: '/Team Images/Danish Ali - Store Boy.jpeg'
-    },
-    {
-        id: 'faisal',
-        name: 'M. Faisal',
-        role: 'Sweeper',
-        image: '/Team Images/M. Faisal - Sweeper.jpeg'
-    },
-    {
         id: 'zohaib',
         name: 'M. Zohaib',
-        role: 'Stock & Inventory Lead',
+        role: 'Stock In,Out',
         image: '/Team Images/M. Zohaib - Cook.jpeg'
+    },
+    {
+        id: 'sageer',
+        name: 'Sageer Ahmad',
+        role: 'Stock In,Out',
+        image: '/Team Images/Sagheer Ahmed.jpeg'
     },
     {
         id: 'abdul',
