@@ -22,10 +22,10 @@ const Legacy = () => {
                         transition={{ delay: 0.1 }}
                     >
                         <p className="mb-6 first-letter:text-5xl first-letter:font-black first-letter:text-blue-600 first-letter:mr-3 first-letter:float-left">
-                            In 2003, product distribution in our area was not good. There were no systems and no temperature control. Clients had to wait days for simple deliveries. I saw this as a big problem that needed to be fixed.
+                            Looking back to 2003, the distribution landscape in our area was completely different. There were no professional systems, no temperature-controlled logistics, and clients often faced long delays for even the simplest deliveries. I recognized this wasn't just a business gap—it was a critical problem that needed a systematic solution.
                         </p>
                         <p>
-                            We started with just one small van and three people. The early days were very hard. Roads were bad and people did not want to change. But we had one rule: <strong>"If we say we will deliver, we deliver."</strong>
+                            We began our journey with just one small van and a team of three dedicated people. Those early days tested us; the roads were challenging and many were resistant to new ways of working. However, we stood firm on one simple, professional promise: <strong>"If we commit to a delivery, we fulfill it, no matter what."</strong>
                         </p>
                     </motion.div>
 
@@ -35,10 +35,10 @@ const Legacy = () => {
                         transition={{ delay: 0.2 }}
                     >
                         <p className="mb-6">
-                            By 2012, that one van became many. SWIFT SALES DISTRIBUTER became a proper company. We were the first to use computers to track our stock. We did not just follow others; we set new standards.
+                            By 2012, that single van had grown into a full-scale fleet, and SWIFT SALES DISTRIBUTER became a recognized name in the industry. We led the way by being the first in our sector to implement computerized inventory tracking. We didn't just adapt to the market; we established the benchmarks for modern distribution.
                         </p>
                         <p>
-                            Today, after 20 years, our biggest success is not money. It is the trust of a partner in a small village who knows that when he places an order, Swift Sales has already delivered the product. That trust is our real story.
+                            Today, two decades later, we don't measure our success by numbers alone. Our true pride is the trust of a partner in a remote village who knows that the moment an order is placed, our system is already in motion. That earned trust is the foundation of our company and our legacy.
                         </p>
                     </motion.div>
                 </div>
