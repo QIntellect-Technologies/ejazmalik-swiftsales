@@ -13,19 +13,19 @@ const TEAM_MEMBERS = [
     {
         id: 'wajhat',
         name: 'Malik Wajahat',
-        role: 'Sales Head',
+        role: 'Director Sales',
         image: '/Team Images/Malik Wajahat - Sales Head.jpeg'
     },
     {
         id: 'naveed',
         name: 'Naveed Anjum',
-        role: 'Manager',
+        role: 'Accounts Manager',
         image: '/Team Images/Naveed Anjum - Manager.jpeg'
     },
     {
         id: 'asad',
-        name: 'Asad Malik',
-        role: 'Computer Executive',
+        name: 'Asad Ullah',
+        role: 'Manager IT',
         image: '/Team Images/Asad Malik - Computer Exective.jpeg'
     },
     {
@@ -38,31 +38,31 @@ const TEAM_MEMBERS = [
     {
         id: 'ahmed',
         name: 'M. Ahmed',
-        role: 'Assistant Manager',
+        role: 'Data Entry Operator',
         image: '/Team Images/M. Ahmed - Assistant Manager.jpeg'
     },
     {
         id: 'tahseen',
         name: 'Tahseen Ahmad',
-        role: 'Ware House Manager',
+        role: 'Warehouse Manager',
         image: '/Team Images/Tahseen ahmad.jpeg'
     },
     {
         id: 'sadeem',
-        name: 'Malika Sadeem',
-        role: 'Faculty Manager',
+        name: 'Malik Sadeem',
+        role: 'Admin',
         image: '/Team Images/Malika Sadeem - Faculty Manager.jpeg'
     },
     {
         id: 'ismail',
         name: 'M. Ismail',
-        role: 'Store Boy',
+        role: 'Assistant Manager Warehouse',
         image: '/Team Images/M. Ismail - Story BOY.jpeg'
     },
     {
         id: 'sageer',
         name: 'Sageer Ahmad',
-        role: 'Stock Management',
+        role: 'Operations Associate',
         image: '/Team Images/Sagheer Ahmed.jpeg'
     },
     {
@@ -104,13 +104,13 @@ const TEAM_MEMBERS = [
     {
         id: 'zohaib',
         name: 'M. Zohaib',
-        role: 'Cook',
+        role: 'Stock & Inventory Lead',
         image: '/Team Images/M. Zohaib - Cook.jpeg'
     },
     {
         id: 'abdul',
         name: 'Abdul Hameed',
-        role: 'Team Member',
+        role: 'Warehouse Audit Manager',
         image: '/Team Images/Abdul Hameed.jpeg'
     }
 ];
