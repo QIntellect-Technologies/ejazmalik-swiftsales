@@ -14,7 +14,7 @@ const Testimonials = () => {
             company: "District Logistics"
         },
         {
-            text: "We have worked with dozens of distributors across Pakistan. The systems that Ejaz Malik has implemented are miles ahead of the competition. Their cold chain compliance data is impeccable and audit-ready at all times.",
+            text: "We have worked with dozens of distributors across Pakistan. The systems that Malik Ejaz has implemented are miles ahead of the competition. Their cold chain compliance data is impeccable and audit-ready at all times.",
             author: "Sarah Khan",
             role: "Regional Supply Chain Manager",
             company: "GSK Pakistan"

@@ -91,7 +91,7 @@ const Hero = () => {
                         <motion.h1
                             className="text-5xl lg:text-7xl font-black text-slate-900 mb-8 leading-tight tracking-tight whitespace-nowrap"
                         >
-                            Ejaz <motion.span
+                            Malik <motion.span
                                 className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600 inline-block"
                                 animate={{ backgroundPosition: ["0% 50%", "100% 50%", "0% 50%"] }}
                                 transition={{ duration: 5, repeat: Infinity, ease: "linear" }}
@@ -116,7 +116,7 @@ const Hero = () => {
                                 animate={{ opacity: 1, x: 0 }}
                                 transition={{ delay: 0.3 }}
                             >
-                                I am Ejaz Malik, the CEO of <strong>SWIFT SALES DISTRIBUTER</strong>. We are a professional sales and distribution network. My mission is to ensure that high-quality products reach every partner on time.
+                                I am Malik Ejaz, the CEO of <strong>SWIFT SALES DISTRIBUTER</strong>. We are a professional sales and distribution network. My mission is to ensure that high-quality products reach every partner on time.
                             </motion.p>
 
                             <motion.p
@@ -185,7 +185,7 @@ const Hero = () => {
                         <div className="relative w-[90%] h-full rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white bg-white group hover:shadow-blue-200/50 transition-shadow duration-500">
                             <motion.img
                                 src="./images/ChatGPT Image Feb 2, 2026, 05_47_17 PM.png"
-                                alt="Ejaz Malik"
+                                alt="Malik Ejaz"
                                 className="w-full h-full object-cover object-top scale-100 group-hover:scale-110 transition-transform duration-700"
                             />
                             <div className="absolute inset-0 bg-gradient-to-t from-slate-900/50 via-transparent to-transparent opacity-60" />

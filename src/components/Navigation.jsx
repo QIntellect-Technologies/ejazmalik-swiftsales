@@ -70,7 +70,7 @@ const Navigation = () => {
                                     EM
                                 </div>
                                 <span className="text-lg font-black tracking-tight text-slate-900 whitespace-nowrap">
-                                    Ejaz Malik
+                                    Malik Ejaz
                                 </span>
                             </motion.a>
 
