@@ -29,12 +29,6 @@ const TEAM_MEMBERS = [
         image: '/Team Images/Asad Malik - Computer Exective.jpeg'
     },
     {
-        id: 'yaseen',
-        name: 'Dr. Ghulam Yaseen',
-        role: 'Qualified Person',
-        image: 'https://ui-avatars.com/api/?name=Dr+Ghulam+Yaseen&background=0D8ABC&color=fff'
-    },
-    {
         id: 'ahmed',
         name: 'M. Ahmad',
         role: 'Data Entry Operator',
