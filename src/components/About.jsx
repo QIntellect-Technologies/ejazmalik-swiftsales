@@ -52,7 +52,7 @@ const About = () => {
 
                         <div className="mt-10 pt-10 border-t border-slate-100">
                             <div className="text-xl font-serif italic text-slate-800">"Honesty and timely delivery are the two pillars of my business."</div>
-                            <div className="mt-4 font-bold text-slate-900">– Malik Muhammad Ejaz</div>
+                            <div className="mt-4 font-bold text-slate-900">– Malik Ejaz</div>
                         </div>
                     </motion.div>
 

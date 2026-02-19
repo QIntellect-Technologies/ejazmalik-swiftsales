@@ -5,10 +5,10 @@ import { Briefcase, User, Award } from 'lucide-react';
 
 const TEAM_MEMBERS = [
     {
-        id: 'naveed',
-        name: 'Naveed Anjum',
-        role: 'Manager',
-        image: '/Team Images/Naveed Anjum - Manager.jpeg'
+        id: 'ejaz',
+        name: 'Malik Muhammad Ejaz',
+        role: 'CEO & Founder',
+        image: '/Team Images/Malik Muhammad Ejaz.jpeg'
     },
     {
         id: 'wajhat',
@@ -17,16 +17,35 @@ const TEAM_MEMBERS = [
         image: '/Team Images/Malik Wajahat - Sales Head.jpeg'
     },
     {
+        id: 'naveed',
+        name: 'Naveed Anjum',
+        role: 'Manager',
+        image: '/Team Images/Naveed Anjum - Manager.jpeg'
+    },
+    {
         id: 'asad',
         name: 'Asad Malik',
         role: 'Computer Executive',
         image: '/Team Images/Asad Malik - Computer Exective.jpeg'
     },
     {
-        id: 'ahmad',
+        id: 'yaseen',
+        name: 'Dr. Ghulam Yaseen',
+        role: 'Qualified Person',
+        image: '/Team Images/Dr Ghulam Yaseen.jpeg'
+    },
+
+    {
+        id: 'ahmed',
         name: 'M. Ahmed',
         role: 'Assistant Manager',
         image: '/Team Images/M. Ahmed - Assistant Manager.jpeg'
+    },
+    {
+        id: 'tahseen',
+        name: 'Tahseen Ahmad',
+        role: 'Ware House Manager',
+        image: '/Team Images/Tahseen ahmad.jpeg'
     },
     {
         id: 'sadeem',
@@ -35,28 +54,52 @@ const TEAM_MEMBERS = [
         image: '/Team Images/Malika Sadeem - Faculty Manager.jpeg'
     },
     {
-        id: 'tahseen',
-        name: 'Tahseen Ahmad',
-        role: 'Warehouse Manager',
-        image: '/Team Images/Tahseen ahmad.jpeg'
-    },
-    {
         id: 'ismail',
         name: 'M. Ismail',
         role: 'Store Boy',
         image: '/Team Images/M. Ismail - Story BOY.jpeg'
     },
     {
-        id: 'zohaib',
-        name: 'M. Zohaib',
-        role: 'Cook',
-        image: '/Team Images/M. Zohaib - Cook.jpeg'
+        id: 'sageer',
+        name: 'Sageer Ahmad',
+        role: 'Stock Management',
+        image: '/Team Images/Sagheer Ahmed.jpeg'
     },
     {
-        id: 'sageer',
-        name: 'Sagheer Ahmed',
-        role: 'Stock In/Out',
-        image: '/Team Images/Sagheer Ahmed.jpeg'
+        id: 'yasir',
+        name: 'Muhammad Yasir',
+        role: 'Sales Man',
+        image: '/Team Images/Muhammad Yasir Sales Man.jpeg'
+    },
+    {
+        id: 'rizwan',
+        name: 'Rizwan Hussain',
+        role: 'Sales Man',
+        image: '/Team Images/Rizwan Hussain - Sales Man.jpeg'
+    },
+    {
+        id: 'azam',
+        name: 'Azam Khan',
+        role: 'Driver',
+        image: '/Team Images/Azam Khan - Driver.jpeg'
+    },
+    {
+        id: 'irfan',
+        name: 'Irfan Ullah',
+        role: 'Driver',
+        image: '/Team Images/Irfan Ullah - dRIVER.jpeg'
+    },
+    {
+        id: 'danish',
+        name: 'Danish Ali',
+        role: 'Store Boy',
+        image: '/Team Images/Danish Ali - Store Boy.jpeg'
+    },
+    {
+        id: 'faisal',
+        name: 'M. Faisal',
+        role: 'Sweeper',
+        image: '/Team Images/M. Faisal - Sweeper.jpeg'
     }
 ];
 
@@ -72,7 +115,7 @@ const Team = () => {
                         animate={inView ? { opacity: 1, y: 0 } : {}}
                         className="inline-block py-1 px-3 rounded-full bg-blue-100 text-blue-600 text-[10px] font-black uppercase tracking-widest mb-4"
                     >
-                        The Squad
+                        Our Team
                     </motion.div>
                     <motion.h2
                         initial={{ opacity: 0, y: 20 }}
