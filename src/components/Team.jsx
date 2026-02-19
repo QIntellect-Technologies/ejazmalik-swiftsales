@@ -100,6 +100,18 @@ const TEAM_MEMBERS = [
         name: 'M. Faisal',
         role: 'Sweeper',
         image: '/Team Images/M. Faisal - Sweeper.jpeg'
+    },
+    {
+        id: 'zohaib',
+        name: 'M. Zohaib',
+        role: 'Cook',
+        image: '/Team Images/M. Zohaib - Cook.jpeg'
+    },
+    {
+        id: 'abdul',
+        name: 'Abdul Hameed',
+        role: 'Team Member',
+        image: '/Team Images/Abdul Hameed.jpeg'
     }
 ];
 
