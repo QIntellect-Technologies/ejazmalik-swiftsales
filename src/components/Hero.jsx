@@ -97,7 +97,7 @@ const Hero = () => {
                                 transition={{ duration: 5, repeat: Infinity, ease: "linear" }}
                                 style={{ backgroundSize: "200% automobile" }}
                             >
-                                Malik
+                                Ejaz
                             </motion.span>
                         </motion.h1>
 

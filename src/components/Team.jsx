@@ -124,7 +124,6 @@ const Team = () => {
                                         <div className="p-2 bg-white/20 backdrop-blur-md rounded-xl w-fit mb-2">
                                             <Award size={20} />
                                         </div>
-                                        <span className="text-xs font-bold uppercase tracking-widest">Swift Sales</span>
                                     </div>
                                 </div>
                             </div>
