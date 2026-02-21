@@ -8,7 +8,7 @@ const TEAM_MEMBERS = [
         id: 'ejaz',
         name: 'Malik Muhammad Ejaz',
         role: 'CEO & Founder',
-        image: '/Team Images/Malik Muhammad Ejaz.jpeg'
+        image: '/Team Images/Malik Muhammad Ejaz.png'
     },
     {
         id: 'abdul',

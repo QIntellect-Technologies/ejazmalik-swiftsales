@@ -184,7 +184,7 @@ const Hero = () => {
                         {/* Main Image Container */}
                         <div className="relative w-[90%] h-full rounded-[3rem] overflow-hidden shadow-2xl border-8 border-white bg-white group hover:shadow-blue-200/50 transition-shadow duration-500">
                             <motion.img
-                                src="/Team Images/Malik Muhammad Ejaz.jpeg"
+                                src="/Team Images/Malik Muhammad Ejaz.png"
                                 alt="Malik Ejaz"
                                 className="w-full h-full object-cover object-top scale-100 group-hover:scale-110 transition-transform duration-700"
                             />
