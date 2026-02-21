@@ -32,7 +32,7 @@ const TEAM_MEMBERS = [
         id: 'asad',
         name: 'Asad Ullah',
         role: 'Manager IT',
-        image: '/Team Images/Asad Malik - Computer Exective.jpeg'
+        image: '/Team Images/Asad Ullah.jpeg'
     },
     {
         id: 'ahmed',
@@ -44,7 +44,7 @@ const TEAM_MEMBERS = [
         id: 'tahseen',
         name: 'Tahseen Ahmad',
         role: 'Warehouse Manager',
-        image: '/Team Images/Tahseen ahmad.jpeg'
+        image: '/Team Images/Tahseen Ahmad.png'
     },
     {
         id: 'sadeem',
