@@ -11,6 +11,12 @@ const TEAM_MEMBERS = [
         image: '/Team Images/Malik Muhammad Ejaz.jpeg'
     },
     {
+        id: 'abdul',
+        name: 'Abdul Hameed',
+        role: 'Warehouse Audit Manager',
+        image: '/Team Images/Abdul Hameed.jpeg'
+    },
+    {
         id: 'wajhat',
         name: 'Malik Wajahat',
         role: 'Director Sales',
@@ -60,15 +66,9 @@ const TEAM_MEMBERS = [
     },
     {
         id: 'sageer',
-        name: 'Sageer Ahmad',
+        name: 'Sageer Ahmed',
         role: 'Stock In,Out',
         image: '/Team Images/Sagheer Ahmed.jpeg'
-    },
-    {
-        id: 'abdul',
-        name: 'Abdul Hameed',
-        role: 'Warehouse Audit Manager',
-        image: '/Team Images/Abdul Hameed.jpeg'
     }
 ];
 
