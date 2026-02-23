@@ -37,7 +37,7 @@ const Vision = () => {
                         className="text-lg md:text-xl text-slate-300 leading-relaxed font-medium space-y-6"
                     >
                         <p>
-                            By 2030, SWIFT SALES DISTRIBUTER plans to use computers for everything. We are testing a new system to track every single product from our warehouse to the consumer. This means no mistakes and total safety.
+                            By 2030, SWIFT SALES DISTRIBUTER plans to use Artificial Intelligence for everything. We are testing a new system to track every single product from our warehouse to the consumer. This means no mistakes and total safety.
                         </p>
                         <p>
                             We also plan to do more than just deliver. We want to start expanding our own brands and premium service. We believe that good service should not be just for a few people, but for everyone.

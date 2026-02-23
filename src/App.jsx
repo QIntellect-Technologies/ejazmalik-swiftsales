@@ -43,7 +43,7 @@ function App() {
                 <div className="bg-slate-50">
                     <Philosophy />
                 </div>
-                <Team />
+                {/* <Team /> */}
             </div>
 
             {/* Chapter 2: Services Stays, Network+Journey cover it */}
