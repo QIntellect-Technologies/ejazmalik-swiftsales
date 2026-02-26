@@ -33,7 +33,6 @@ const Navigation = () => {
     const navItems = [
         { label: 'Home', href: '#home' },
         { label: 'About', href: '#about' },
-        { label: 'Team', href: '#team' },
         { label: 'Journey', href: '#journey' },
         { label: 'Philosophy', href: '#philosophy' },
         { label: 'Contact', href: '#contact' },

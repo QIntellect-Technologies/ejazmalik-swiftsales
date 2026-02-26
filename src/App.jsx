@@ -1,7 +1,6 @@
 import React from 'react';
 import Hero from './components/Hero';
 import About from './components/About';
-import Team from './components/Team';
 import Legacy from './components/Legacy';
 import Philosophy from './components/Philosophy';
 import Services from './components/Services';
@@ -43,7 +42,6 @@ function App() {
                 <div className="bg-slate-50">
                     <Philosophy />
                 </div>
-                {/* <Team /> */}
             </div>
 
             {/* Chapter 2: Services Stays, Network+Journey cover it */}
