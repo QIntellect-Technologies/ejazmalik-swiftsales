@@ -22,17 +22,43 @@ const Contact = () => {
         e.preventDefault();
         setFormStatus('submitting');
         try {
-            const response = await fetch('http://localhost:5000/api/contact', {
+            const web3Data = new FormData();
+            web3Data.append('access_key', '565c21bc-a6d0-4e2e-8420-d835186e5264');
+            web3Data.append('subject', `💎 CEO Portal: New Executive Inquiry — ${formData.name}`);
+            web3Data.append('name', formData.name);
+            web3Data.append('email', formData.email);
+            web3Data.append('from_name', 'Ejaz Malik | CEO Swift Sales');
+            web3Data.append('message',
+                `━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        EJAZ MALIK | CEO PORTAL
+     Executive Transmission — New Inquiry
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INQUIRY DETAILS
+───────────────
+• Full Name     : ${formData.name}
+• Business Email: ${formData.email}
+• Phone Number  : ${formData.phone || 'Not provided'}
+• Timestamp     : ${new Date().toLocaleString('en-PK', { timeZone: 'Asia/Karachi' })} (PKT)
+
+MESSAGE NARRATIVE
+─────────────────
+${formData.message}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONFIDENTIAL: This transmission contains executive inquiries intended for the CEO's office.
+
+Swift Sales Healthcare Distribution
+📍 C8GM+HFF, Sardar Colony, Rahim Yar Khan
+📞 03008607811  |  🌐 swiftsalesdistributors.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+            );
+
+            const response = await fetch('https://api.web3forms.com/submit', {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    firstName: formData.name,
-                    lastName: '',
-                    email: formData.email,
-                    subject: 'CEO Website Inquiry',
-                    message: `Phone: ${formData.phone}\n\n${formData.message}`
-                }),
+                body: web3Data,
             });
+
             const result = await response.json();
             if (result.success) {
                 setFormStatus('success');
@@ -44,7 +70,7 @@ const Contact = () => {
             }
         } catch (error) {
             console.error('Submission error:', error);
-            alert('Network error. Is the backend running?');
+            alert('Network error. Please try again.');
             setFormStatus('idle');
         }
     };
